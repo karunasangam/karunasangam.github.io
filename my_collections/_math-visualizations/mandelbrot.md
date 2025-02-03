@@ -6,7 +6,7 @@ image: assets/images/mandelbrot_2000px_1000steps.png
 image-desc: "A black and white image of the Mandelbrot set, where points have been shaded according to how many iterations it takes for them to exceed some threshold. The threshold can be any number greater than 2."
 desc: >
     Generated an image approximating the Mandelbrot set.
-link: "https://github.com/seastaralgebras/mandelbrot"
+link: "https://github.com/karunasangam/mandelbrot"
 ---
 
 Some python and javascript code generating the Mandelbrot set and \\( z^2 + c \\) Julia sets.

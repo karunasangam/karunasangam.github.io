@@ -5,7 +5,7 @@ title: Math Visualizations
 proj-collection: site.math-visualizations
 desc: >
   Images, animations, and other things that visually represent various constructs in math.
-link: #"https://github.com/seastaralgebras/"
+link: #"https://github.com/karunasangam/"
 ---
 
 Mathematics is full of cool visuals, and I couldn't help but code a few of them into existence.

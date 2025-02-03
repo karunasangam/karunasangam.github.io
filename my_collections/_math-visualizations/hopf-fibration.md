@@ -6,7 +6,7 @@ image: assets/images/hopf_my_points.gif
 image-desc: "An animation that shows points on the 2-sphere and their corresponding preimages under the Hopf map on the 3-sphere under a stereographic projection."
 desc: >
   Created animations visualizing the Hopf fibration.
-link: "https://github.com/seastaralgebras/hopf-fibration"
+link: "https://github.com/karunasangam/hopf-fibration"
 ---
 
 

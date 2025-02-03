@@ -1,2 +1,2 @@
-# seastaralgebras.github.io
+# karunasangam.github.io
 Personal Website
