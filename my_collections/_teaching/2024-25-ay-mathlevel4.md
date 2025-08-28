@@ -7,7 +7,7 @@ institution: AoPS Academy Princeton
 position: Instructor
 year: 2024-2025
 semester: AY
-current: true
+current: false
 desc: >
   "Math Level 4 course to introduce advanced 4th graders to topics from multiplication and division to counting and logic."
 syllabus: #You can link your syllabus here

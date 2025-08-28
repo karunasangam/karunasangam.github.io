@@ -7,7 +7,7 @@ institution: Rutgers University
 position: "Instructor of Record"
 year: 2025
 semester: Spring
-current: true
+current: false
 desc: >
   "First semester of single-variable calculus for life and social science majors."
 folder: "/assets/documents/teaching/2025_spring_math135/"

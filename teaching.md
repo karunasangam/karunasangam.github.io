@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching.html
 ---
 
-Currently, I am a Lecturer at Rutgers University--New Brunswick and a Math Instructor at AoPS Academy Princeton.
+<!-- Currently, I am a Lecturer at Rutgers University--New Brunswick and a Math Instructor at AoPS Academy Princeton.
 
 ## Current Teaching
 
@@ -28,7 +28,7 @@ Currently, I am a Lecturer at Rutgers University--New Brunswick and a Math Instr
 	</li>
   {% endif %}
   {% endfor %}
-</ul>
+</ul> -->
 
 ## Past Teaching
 <ul>

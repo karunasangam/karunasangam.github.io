@@ -2,10 +2,12 @@
   link: /
 - name: About
   link: /about.html
-- name: Research
-  link: /research.html
+- name: Tutoring
+  link: /tutoring.html
 - name: Teaching
   link: /teaching.html
+- name: Research
+  link: /research.html
 - name: CV
   link: /cv.html
 - name: Projects
