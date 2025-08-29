@@ -25,6 +25,6 @@ You can contact me at [tutoring@karunasangam.com](mailto:tutoring@karunasangam.c
 ## Testimonials
 <ul>
 	<li>
-		TBA
+		"Karuna tutored both of my kids and was wonderful. She is patient, passionate, and knowledgeable. She made difficult concepts easy to understand and always encouraged them. My kids loved her and benefited from her tutoring and presence. I highly recommend Karuna as a tutor."
 	</li>
 </ul>
