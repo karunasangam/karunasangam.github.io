@@ -27,4 +27,7 @@ You can contact me at [tutoring@karunasangam.com](mailto:tutoring@karunasangam.c
 	<li>
 		"Karuna tutored both of my kids and was wonderful. She is patient, passionate, and knowledgeable. She made difficult concepts easy to understand and always encouraged them. My kids loved her and benefited from her tutoring and presence. I highly recommend Karuna as a tutor."
 	</li>
+	<li>
+		"Karuna is someone who has been very helpful to our family. In addition to being a clear and reliable communicator when it comes to her availability, Karuna is talented mathematically. Direct and always encouraging with students, she is able to pivot from one math realm to another with great ease. She helped our children over the years with everything from Algebra, to Geometry, Trig and Calculus. She was a joy to work with!"
+	</li>
 </ul>
