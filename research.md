@@ -5,7 +5,7 @@ permalink: /research.html
 ---
 ## Current research:
 
-Recently, I have been thinking about knot theory, 3- and 4-manifolds, and Heegaard Floer homology.
+My current work is primarily focused on invariants extracted from equivariant knot Floer homology for strongly invertible knots.
 
 
 ## Previous research:

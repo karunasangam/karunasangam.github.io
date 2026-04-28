@@ -13,7 +13,7 @@ layout: default
 	<div class="tags">
 		Tags:&nbsp;
 		{% for tag in page.tags %}
-			<a href="/tags/{{tag}}">#{{tag}}</a>{% if forloop.last %}&nbsp;{% else %},&nbsp;{% endif %}
+			<a href="/tag/{{tag}}">#{{tag}}</a>{% if forloop.last %}&nbsp;{% else %},&nbsp;{% endif %}
 		{% endfor %}
 	</div>
 </article>

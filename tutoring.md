@@ -14,10 +14,10 @@ You can contact me at [tutoring@karunasangam.com](mailto:tutoring@karunasangam.c
 		Middle/high school course tutoring (all levels except for statistics): $75/hour
 	</li>
 	<li>
-		College course tutoring (through upper-level undergraduate math): $75/hour
+		College course tutoring (through upper-level undergraduate pure math): $75/hour
 	</li>
 	<li>
-		Customized curriculum for topics in high school or undergraduate or pure mathematics: $90/hour
+		Developing custom materials for topics from middle school through undergraduate pure math levels: $20-40/hour (based on topic)
 	</li>
 </ul>
 

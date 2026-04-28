@@ -42,6 +42,7 @@ blog: true
 plugins:
  - jekyll-feed
  - jekyll-scholar
+ - jekyll-archives
 
 
 scholar:
@@ -76,6 +77,22 @@ collections:
   math-visualizations:
     output: true
     permalink: /:collection/:name
+
+
+jekyll-archives:
+  enabled: all
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    category: type-archive
+    tag: type-archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 asciidoc: {}
 asciidoctor:
